@@ -1,0 +1,23 @@
+
+> mobiluygulama@0.0.1 start:all
+> powershell -NoProfile -ExecutionPolicy Bypass -File .\start-stack.ps1
+
+AI server URL: http://192.168.1.110:3001
+env: load .env.local
+env: export GEMINI_API_KEY GEMINI_MODEL OPENAI_MODEL XAI_MODEL APP_DATA_SECRET ADMIN_EMAIL ADMIN_PASSWORD
+Starting project at C:\MobilUygulama
+Starting Metro Bundler
+Waiting on http://localhost:8081
+Logs for your project will appear below.
+Web .\index.ts ░░░░░░░░░░░░░░░░  0.0% (0/1)
+Web Bundled 455ms index.ts (757 modules)
+ LOG  [web] Logs will appear in the browser console
+Web .\index.ts ░░░░░░░░░░░░░░░░  0.0% (0/1)
+Web Bundled 59ms index.ts (1 module)
+ LOG  [web] Logs will appear in the browser console
+Web .\index.ts ░░░░░░░░░░░░░░░░  0.0% (0/1)
+Web Bundled 22ms index.ts (1 module)
+ LOG  [web] Logs will appear in the browser console
+Web .\index.ts ░░░░░░░░░░░░░░░░  0.0% (0/1)
+Web Bundled 28ms index.ts (1 module)
+ LOG  [web] Logs will appear in the browser console
