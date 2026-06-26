@@ -1,6 +1,0 @@
-env: load .env.local
-env: export GEMINI_API_KEY GEMINI_MODEL OPENAI_MODEL XAI_MODEL APP_DATA_SECRET ADMIN_EMAIL ADMIN_PASSWORD
-Starting project at C:\MobilUygulama
-Starting Metro Bundler
-Waiting on http://localhost:8082
-Logs for your project will appear below.
