@@ -82,11 +82,7 @@ cd Akilli_Mutfak_Asistani_ve_Spor_Asistani
 npm install
 ```
 
-### 4. Ortam Degiskenlerini Olusturma
-
-`.env.example` dosyasi ornek alinabilir. AI/API anahtari gerekmez.
-
-### 5. Uygulamayi Calistirma
+### 4. Uygulamayi Calistirma
 
 ```bash
 npm run start:all
